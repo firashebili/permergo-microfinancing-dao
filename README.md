@@ -37,7 +37,9 @@ Lending and Borrowing
 - Building and setting up of the website.
 - Realfi projects will be funded with micro loans through the Permergo platform website.
 - Collatorized vs Non-Collatorized loans to be decided by the team on the ground.
+
 Partnering with projects
+
 Permergo will be active on the ground as well, in the real world. We in Permergo believe in the shared experience in contrast to impersonal experiences, we envision a future where we spend a healthy amount of time in the real world.
 Partnership of Permergo with local farmers in case the vision needs maturing until the lender is able of standing on her or his feet independently in the project.
 We aspire to partner with other platforms on the Ergo blockchain : Eventually it could become possible to initiate loan demands on lending and borowing platforms of the Ergo ecosystems and then making it liquid through Permergo on the ground.
