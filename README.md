@@ -29,7 +29,9 @@ Permergo Roadmap
     • Q1 2023 Kickstarting Permergo DAO on Ergo blockchain.
     • Q2-Q3 2023 Starting negotiations with authorities in Zanzibar to start up a non profit organisation that will allow for the functioning on the terrain.
     • Q2-Q3 2023 Creating a Permergo website.
+    
 permergo protocol
+
 Lending and Borrowing
 - Building and setting up of the website.
 - Realfi projects will be funded with micro loans through the Permergo platform website.
