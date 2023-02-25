@@ -1,2 +1,2 @@
 # permergo-microfinancing-dao
-licensing, readme file, etc.
+whitepaper, permergo protocol, etc.
