@@ -10,6 +10,7 @@ Permaculture and blockchain are analogous. Permaculture aims to create ecosystem
 - Soil Production.
 - Waste recycling.
 - Regenerative closed systems.
+
 Blockchain seeks to create a decentralised financial system where people own their own money. Blockchain has gone way beyond Bitcoin since it’s inception, and now thanks to smart contracts and decentralised finance we can finally visualise business start-ups in places that have historically been excluded from access to finance in order to initiate and transact trade on all levels. Suffice to say that on the African continent a lot of countries face disproportianately high interest rates for taking loans making it very difficult to have access to finance through traditional financial banks.
 Farmers sometimes lack basic stocking tools in order to stock their yield which forces them to sell their crops cheaply if not with a loss in order for them to have money, while if they could have a loan, it will help them buy the special stocking bags needed to store their crops for an extended period of six months, then they could make 2x profit on their crops.
 Here offers  Ergo blockchain a possible solution.
