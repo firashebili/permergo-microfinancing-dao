@@ -37,14 +37,15 @@ This is especially very important for the global south where people are excluded
 Here comes Informal finance as the solution for this reality that we witness. Informal finance is down-down solution without waiting for the bureaucratic invasive intervention of governments and states: by micro financing projects related to food production, we are simply going back to what we have always been doing since the dawn of humanity: cultivating land, it’s litteraly the reason why civilization started.
 Another reason why informal finance is key to solving this problem is because most of normal people don’t know how to interact and use the tools of formal financing because either they lack the right tools to write a project, and so the very first step needs a help and here we usually see big bureaucratic NGOs that eventually doesn’t solve the problem but on the contrary they only keep the status quo going.
 Ergo, its community and ecosystem could be the launchpad for this small but promising realfi project.
+
 Permergo Roadmap
+
     • Q1 2023 Kickstarting Permergo DAO on Ergo blockchain.
     • Q2-Q3 2023 Starting negotiations with authorities in Zanzibar to start up a non profit organisation that will allow for the functioning on the terrain.
     • Q2-Q3 2023 Creating a Permergo website.
     
-permergo protocol
+permergo protocol Lending and Borrowing
 
-Lending and Borrowing
 - Building and setting up of the website.
 - Realfi projects will be funded with micro loans through the Permergo platform website.
 - Collatorized vs Non-Collatorized loans to be decided by the team on the ground.
